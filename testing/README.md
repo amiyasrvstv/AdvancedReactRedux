@@ -28,3 +28,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 #### MY WORKS
 
 **Started working on the test folder with the components/app_test.js file.**
+
+**run npm run test:watch**
