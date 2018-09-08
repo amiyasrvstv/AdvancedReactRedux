@@ -1,6 +1,8 @@
 testing/node_modules
+hoc/node_modules
 testing/bundle.js
 testing/npm-debug.log
+hoc/npm-debug.log
 testing/.DS_Store
 
 # IntelliJ
